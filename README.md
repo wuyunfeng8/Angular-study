@@ -13,5 +13,5 @@
 ## 目录
 
 1. [学习资料](LearningMaterials.md)
-2. 收集插件
-3. 开源项目
+2. [收集插件](Plugin.md)
+3. [开源项目](OpenSourceProject.md)
